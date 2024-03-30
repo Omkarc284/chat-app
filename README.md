@@ -27,5 +27,11 @@ The project is not fully complete however the backend code has the following fun
 
 ## Challenges:
 1. This project is too big for a `48 hour` duration.
-2. Stuck in dependencies in frontend.
+2. Stuck in dependencies errors in frontend.
 3. Project is incomplete.
+
+## Better Practices for security and scalability:
+1. Develop and maintain backend Codebase in Microservices architecture
+2. Use Scalable Insfrastructure for eg. AWS, AZURE.
+3. Implementing Https in production environment.
+4. We can implement Encryption of Data in transit and rest.
